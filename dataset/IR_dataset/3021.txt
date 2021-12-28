@@ -1,0 +1,62 @@
+:formula_62 (همچنین ببینید تابع گاما)
+
+:formula_63 (انتگرال گاوسی)
+
+:formula_64 when a> 0
+
+:formula_65 هنگامی که a> 0, n is 1,2،۳... و !! است فاکتوریل.
+
+:formula_66 هنگامی که a> 0
+
+:formula_67 هنگامی که a> 0, n است ۰, ۱, ۲, ...
+
+:formula_68 (همچنین ببینید Bernoulli number)
+
+:formula_69
+
+:formula_70 (see تابع سینک و انتگرال سینوسی)
+
+:formula_71
+
+:formula_72 (if "n" is an even integer and formula_73)
+
+:formula_74 (if formula_75 is an odd integer and formula_76)
+
+:formula_77 (for formula_78 integers with formula_79 and formula_80، همچنین ببینید Binomial coefficient)
+
+:formula_81 (for formula_82 real and formula_83 non-negative integer, همچنین ببینید تقارن)
+
+:formula_84 (for formula_78 integers with formula_79 and formula_80، همچنین ببینید Binomial coefficient)
+
+:formula_88 (for formula_78 integers with formula_79 and formula_91، همچنین ببینید Binomial coefficient)
+
+:formula_92 (where formula_93 is the تابع نمایی formula_94، and formula_95)
+
+:formula_96 (where formula_97 is the تابع گاما)
+
+:formula_98 (the تابع بتا)
+
+:formula_99 (where formula_100 is the modified تابع بسل of the first kind)
+
+:formula_101
+
+:formula_102، formula_103، this is related to the تابع چگالی احتمال of the توزیع تی-استیودنت)
+The method of exhaustion provides a formula for the general case when no antiderivative exists:
+:formula_104
+
+:formula_105
+
+Start by using the substitution formula_106
+: formula_107
+This brings the integral to the general form
+: formula_108
+which after integration by parts yields
+: formula_109
+and provided the first term vanishes at the end points, we get the recurrence relation
+: formula_110
+which upon computation gives
+: formula_111
+Applying to our integral, we notice that
+: formula_112
+Hence the final answer is:
+: formula_113

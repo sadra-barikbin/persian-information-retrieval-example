@@ -1,0 +1,73 @@
+:;"در منابع مختلف ارقام متفاوتی از تعداد هواپیماهای فعال درچ شده است:"
+
+! style"text-align:left; background:#acc; width:26%;"|هواگرد
+! style"text-align:left; background:#acc; width:13%;"|کشور
+! style"text-align:left; background:#acc; width:15%;"|نوع
+! style"text-align:left; background:#acc; width:19%;"|مدل‌ها
+! style"text-align:left; background:#acc; width:9%;"|فعال
+! style"text-align:left; background:#acc; width:9%;"|فعال
+! style"text-align:left; background:#acc; width:19%;"|فعال
+! style"align: center; background: lavender;" colspan"7" | جنگنده
+| rowspan  "4"| اف-۱۵ ایگل ||rowspan"4"| ||rowspan"4"|جنگنده برتری هوایی || F-15A "Baz" || rowspan"4"| formula_1 ۵۲||rowspan"2"| formula_2 ۴۲ || ۲۷
+|F-15C "Baz" || ۲۰
+|F-15B "Baz" ||rowspan"2"| formula_2 ۲۰ || ۷
+|F-15D "Baz" || ۱۵
+|- style"background:#efefef; color:black"
+|- style"background:#efefef; color:red"
+| rowspan  "4"|لاکهید مارتین اف-۳۵ لایتنینگ|| rowspan"4" | ||rowspan"4"|جنگنده تاکتیکی پیشرفته || F-35A || rowspan"4" |formula_1 ۵۲||rowspan"2"| formula_2 ۴۲ || ۲۷
+|F-35C || ۲۰
+|F-35B || rowspan"2" |formula_2 ۲۰ || ۷
+|F-35D || ۱۵
+|- style"background:#efefef; color:black"
+|- style"background:#efefef; color:black"
+|اف-۱۵ ئی|| ||جنگنده حمله زمینی|| F-15I "Ra'am" ||۲۵ || ۲۵ ||
+| rowspan  "5"| اف-۱۶ فایتینگ فالکن ||rowspan"5"| ||rowspan"5"|جنگنده چندمنظوره || F-16A "Netz" ||rowspan"2"| formula_2 ۱۰۷ ||rowspan"2"| formula_2 ۹۹ || ۹۰
+|F-16B "Netz" || ۱۶
+|F-16C "Barak" ||rowspan"2"| formula_2 ۱۳۶ ||rowspan"2"| formula_2 ۱۲۶ || ۵۲
+|F-16D "Barak" || ۴۹
+|F-16I "Sufa" || ۱۰۰ || ۱۰۰ ||
+! style"align: center; background: lavender;" colspan"7" | هواپیمای آموزشی
+|- style"background:#efefef; color:black"
+|گروب جی-۱۲۰|| || هواپیمای آموزشی ||G-120AI "Snunit" || ۲۷ || ۱۷ || ۱۷
+| تی-۶ بیچ‌کرافت || ||هواپیمای آموزشی || T-6A "Efroni" || ۱۹ || ۲۰ || ۲۰ ||
+|- style"background:#efefef; color:black"
+| آ-۴ اسکای‌هاوک || || حمله به زمین /آموزشی|| A-4N, TA-4H/J "Ayit" || ۲۰ || ۲۰ || ۲۰|
+! style"align: center; background: lavender;" colspan"7" | هواپیمای حمل‌ونقل نظامی / سوخت‌رسانی هوایی / آتش‌نشانی هوایی / چندمنظوره / تجسسی / گشت دریایی / هشدار سریع هوایی
+|- style"background:#efefef; color:black"
+| کشنده هوایی آتی-۸۰۲ || || هواپیمای آتش‌نشان || آتی-۸۰۲اف || ۸ || ۷ ||۷
+| بیچ‌کرافت بونانزا || ||چندمنظوره || A-36 "Khofit" ||۲۲ || – || ۲۲
+|- style"background:#efefef; color:black"
+| rowspan  "2"| بیچ‌کرافت سوپرکینگ ایر (سی-۱۲ هورون) ||rowspan"2"| ||چندمنظوره / ترابری / آموزشی || B-200/T/CT "Tzofit" || rowspan"2"| formula_2 ۲۹ || ۲۲ || ۲۲
+|- style"background:#efefef; color:black"
+||هشدار سریع / تجسس الکترونیکی || RC-12D/K "Kookiya" || ۷ ||۷
+| آی‌آآی وست‌ویند || ||گشت دریایی || 1124N "Shahaf" || ۳ || ۳ || ۳
+|- style"background:#efefef; color:black"
+| rowspan  "2"| گالف‌استریم جی-۵۵۰ ||rowspan"2"| ||ماموریت‌های ویژه الکترونیکی || G500 "Nahshon-Shavit" || ۳ || ۳ || ۳
+|- style"background:#efefef; color:black"
+|هشدار سریع هوایی || G550 "Nahshon-Eitam" || ۲ || ۴ || ۳
+| rowspan  "3"| سی-۱۳۰ هرکولس ||rowspan"3"| ||rowspan"2"|ترابری تاکتیکی || C-130E "Qarnaf" ||rowspan"2"| formula_2 ۱۲ ||rowspan"2"| formula_2 ۱۱ ||۵
+| C-130H "Qarnaf" || ۲
+| سوخت‌رسانی هوایی ||کاسی-۱۳۰اچ "Qarnaf" || ۳ || ۵ || ۵
+|- style"background:#efefef; color:black"
+| rowspan  "2"| بوئینگ ۷۰۷ ||rowspan"2"| || ترابری سنگین / هشدار سریع ||style"background:#efefef; color:black"| 707 "Re'em" ||style"background:#efefef; color:black"| ۸ ||style"background:#efefef; color:black"| ۷ ||style"background:#efefef; color:black"|
+|- style"background:#efefef; color:black"
+|سوخت‌رسانی هوایی || کاسی-۷۰۷ || ۵ || ۷ || ۸
+! style"align: center; background: lavender;" colspan"7" | بالگردها
+|- style"background:#efefef; color:black"
+| یوروکوپتر پانتر || ||گشت دریایی || AS-565SA "Atalef" || ۵ || ۵ || ۵
+| ای‌اچ-۱ کبرا || ||بالگرد جنگنده || AH-1 "Tzefa" || ۳۳ || ۴۹ || ۳۳
+|- style"background:#efefef; color:black"
+| rowspan  "2"| آاچ-۶۴ آپاچی ||rowspan"2"| ||rowspan"2"| بالگرد جنگنده|| AH-64A "Peten" || ۳۰ || ۳۲ || ۳۰
+|- style"background:#efefef; color:black"
+|AH-64D "Saraph" || ۱۷|| ۱۸ || ۱۸
+|| سیکورسکی سی‌اچ-۵۳ || || حمل‌ونقل سنگین || CH-53D "Yas'ur 2025" || ۳۷ || ۲۵ || ۳۸
+|- style"background:#efefef; color:black"
+|| سیکورسکی اس-۷۰ (یواچ-۶۰ بلک‌هاوک) || || حمل‌ونقل تاکتیکی || "Yanshuf" || ۴۹ || ۴۹ || ۴۹
+| بل ۲۰۶ (اواچ-۵۸ کیوا) || || حمل‌ونقل سبک / آموزشی || 206B "Saifan" || – || ۱۸ || ۹
+! style"align: center; background: lavender;" colspan"7" | هواپیمای بدون‌سرنشین
+| ایتان || || دوربرد ارتفاع متوسط ||هارون-تی‌پی ایتان || + || + || +
+|- style"background:#efefef; color:black"
+| هارون ۱ || || دوربرد ارتفاع متوسط || هارون-۱ شوال|| + || + || +
+| البیت هرمس ۴۵۰ || || هواپیمای بدون سرنشین تاکتیکی || هرمس ۴۵۰-اس || + || + || +
+|- style"background:#efefef; color:black"
+| BlueBird SpyLite || || هواپیمای بدون سرنشین کوچک || SkyLite B || – || + || –

@@ -1,0 +1,42 @@
+|style="text-align:right;"|۲۰۰۶
+|style="text-align:right;"| کلیولند
+|۱۳||۱۳||۴۶٫۵||۴۷۶.||۳۳۳.||۷۳۷.||۸٫۱||۵٫۸||۱٫۴||۷.||۳۰٫۸
+|style="text-align:right;"|۲۰۰۷
+|style="text-align:right;"| کلیولند
+|۲۰||۲۰||۴۴٫۷||۴۱۶.||۲۸۰.||۷۵۵.||۸٫۱||۸٫۰||۱٫۷||۵.||۲۵٫۱
+|style="text-align:right;"|۲۰۰۸
+|style="text-align:right;"| کلیولند
+|۱۳||۱۳||۴۲٫۵||۴۱۱.||۲۵۷.||۷۳۱.||۷٫۸||۷٫۶||۱٫۸||۱٫۳||۲۸٫۲
+|style="text-align:right;"|۲۰۰۹
+|style="text-align:right;"|کلیولند
+|۱۴||۱۴||۴۱٫۴||۵۱۰.||۳۳۳.||۷۴۹.||۹٫۱||۷٫۳||۱٫۶||۹.||۳۵٫۳
+|style="text-align:right;"|۲۰۱۰
+|style="text-align:right;"| کلیولند
+|۱۱||۱۱||۴۱٫۸||۵۰۲.||۴۰۰.||۷۳۳.||۹٫۳||۷٫۶||۱٫۷||۱٫۸||۲۹٫۱
+|style="text-align:right;"|۲۰۱۱
+|style="text-align:right;"| میامی
+|۲۱||۲۱||۴۳٫۹||۴۶۶.||۳۵۳.||۷۶۳.||۸٫۴||۵٫۹||۱٫۷||۱٫۲||۲۳٫۷
+|style="text-align:right;background:#afe6ba;"|۲۰۱۲†
+|style="text-align:right;"| میامی
+|۲۳||۲۳||۴۲٫۷||۵۰۰.||۲۵۹.||۷۳۹.||۹٫۷||۵٫۶||۱٫۹||۷.||۳۰٫۳
+|style="text-align:right;background:#afe6ba;"|۲۰۱۳†
+|style="text-align:right;"| میامی
+|۲۳||۲۳||۴۱٫۷||۴۹۱.||۳۷۵.||۷۷۷.||۸٫۴||۶٫۶||۱٫۸||۸.||۲۵٫۹
+|style="text-align:right;"|۲۰۱۴
+|style="text-align:right;"| میامی
+|۲۰||۲۰||۳۸٫۲||۵۶۵.||۴۰۷.||۸۰۶.||۷٫۱||۴٫۸||۱٫۹||۶.||۲۷٫۴
+|style="text-align:right;"|۲۰۱۵
+|style="text-align:right;"| کلیولند
+|۲۰||۲۰||۴۲٫۲||۴۱۷.||۲۲۷.||۷۳۱.||۱۱٫۳||۸٫۵||۱٫۷||۱٫۱||۳۰٫۱
+|style="text-align:right;background:#afe6ba;"|۲۰۱۶†
+|style="text-align:right;"| کلیولند
+|۲۱||۲۱||۳۹٫۱||۵۲۵.||۳۴۰.||۶۶۱.||۹٫۵||۷٫۶||۲٫۳||۱٫۳||۲۶٫۳
+|style="text-align:right;"|۲۰۱۷
+|style="text-align:right;"|کلیولند
+|۱۸||۱۸||۴۱٫۳||۵۶۵.||۴۱۱.||۶۹۸.||۹٫۱||۷٫۸||۱٫۹||۱٫۳||۳۲٫۸
+|style="text-align:right;"|۲۰۱۸
+|style="text-align:right;"|کلیولند
+|۲۲||۲۲||۴۱٫۹||۵۳۹.||۳۴۲.||۷۴۶.||۹٫۱||۹٫۰||۱٫۴||۱٫۰||۳۴٫۰
+|- class="sortbottom"
+|style="text-align:center;" colspan="2"|عملکرد
+|۲۳۹||۲۳۹||۴۲٫۰||۴۹۱.||۳۲۳.||۷۴۳.||۸٫۹||۷٫۱||۱٫۸||۱٫۰||۲۸٫۹

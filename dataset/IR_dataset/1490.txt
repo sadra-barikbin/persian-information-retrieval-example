@@ -1,0 +1,57 @@
+| style"text-align:right;"| ۲۰۰۳
+| style"text-align:right;"| کلیولند
+| ۷۹ || ۷۹ || ۳۹٫۵ || ۴۱۷. || ۲۹۰. || ۷۵۴. || ۵٫۵ || ۵٫۹ || ۱٫۶ || ۷. || ۲۰٫۹
+| style"text-align:right;"| ۲۰۰۴
+| style"text-align:right;"| کلیولند
+| ۸۰ || ۸۰ || style"background:#cfecec;"| ۴۲٫۴* || ۴۷۲. || ۳۵۱. || ۷۵۰. || ۷٫۴ || ۷٫۲ || ۲٫۲ || ۷. || ۲۷٫۲
+| style"text-align:right;"| ۲۰۰۵
+| style"text-align:right;"| کلیولند
+| ۷۹ || ۷۹ || ۴۲٫۵ || ۴۸۰. || ۳۳۵. || ۷۳۸. || ۷٫۰ || ۶٫۶ || ۱٫۶ || ۸. || ۳۱٫۴
+| style"text-align:right;"| ۲۰۰۶
+| style"text-align:right;"| کلیولند
+| ۷۸ || ۷۸ || ۴۰٫۹ || ۴۷۶. || ۳۱۹. || ۶۹۸. || ۶٫۷ || ۶٫۰ || ۱٫۶ || ۷. || ۲۷٫۳
+| style"text-align:right;"| ۲۰۰۷
+| style"text-align:right;"| کلیولند
+| ۷۵ || ۷۴ || ۴۰٫۴ || ۴۸۴. || ۳۱۵. || ۷۱۲. || ۷٫۹ || ۷٫۲ || ۱٫۸ || ۱٫۱ || style"background:#cfecec;" | ۳۰٫۰*
+| style"text-align:right;"| ۲۰۰۸
+| style"text-align:right;"| کلیولند
+| ۸۱ || ۸۱ || ۳۷٫۷ || ۴۸۹. || ۳۴۴. || ۷۸۰. || ۷٫۶ || ۷٫۲ || ۱٫۷ || ۱٫۱ || ۲۸٫۴
+| style"text-align:right;"|۲۰۰۹
+| style"text-align:right;"| کلیولند
+| ۷۶ || ۷۶ || ۳۹٫۰ || ۵۰۳. || ۳۳۳. || ۷۶۷. || ۷٫۳ || ۸٫۶ || ۱٫۶ || ۱٫۰ || ۲۹٫۷
+| style"text-align:right;"|۲۰۱۰
+| style"text-align:right;"| میامی
+| ۷۹ || ۷۹ || ۳۸٫۸ || ۵۱۰. || ۳۳۰. || ۷۵۹. || ۷٫۵ || ۷٫۰ || ۱٫۶ || ۶. || ۲۶٫۷
+|style"text-align:right;background:#afe6ba;"|۲۰۱۱†
+|style"text-align:right;"|میامی
+|۶۲||۶۲||۳۷٫۵||۵۳۱.||۳۶۲.||۷۷۱.||۷٫۹||۶٫۲||۱٫۹||۸.||۲۷٫۱
+|style"text-align:right;background:#afe6ba;"|۲۰۱۲†
+|style"text-align:right;"|میامی
+|۷۶||۷۶||۳۷٫۹||.۵۶۵||۴۰۶.||۷۵۳.||۸٫۰||۷٫۳||۱٫۷||۹.||۲۶٫۸
+|style"text-align:right;"|۲۰۱۳
+|style"text-align:right;"|میامی
+|۷۷||۷۷||۳۷٫۷||۵۶۷.||۳۷۹.||۷۵۰.||۶٫۹||۶٫۴||۱٫۶||۳.||۲۷٫۱
+|style"text-align:right;"|۲۰۱۴
+|style"text-align:right;"|کلیولند
+|۶۹||۶۹||۳۶٫۱||۴۸۸.||۳۵۴.||۷۱۰.||۶٫۰||۷٫۴||۱٫۶||۷.||۲۵٫۳
+|style"text-align:right;background:#afe6ba;"|۲۰۱۵†
+|style"text-align:right;"|کلیولند
+|۷۶||۷۶||۳۵٫۶||۵۲۰.||۳۰۹.||۷۳۱.||۷٫۴||۶٫۸||۱٫۴||۶.||۲۵٫۳
+|style"text-align:right;"|۲۰۱۶
+|style"text-align:right;"|کلیولند
+|۷۴||۷۴|| style"background:#cfecec;"| ۳۷٫۸*||۵۴۸.||۳۶۳.||۶۷۴.||۸٫۶||۸٫۷||۱٫۲||۶.||۲۶٫۴
+|style"text-align:right;"|۲۰۱۷
+|style"text-align:right;"|کلیولند
+|۸۲||۸۲|| style"background:#cfecec;"| ۳۶٫۹*||۵۴۲.||۳۶۷.||۷۳۱.||۸٫۶||۹٫۱||۱٫۴||۹.||۲۷٫۵
+|style"text-align:right;"|۲۰۱۸
+|style"text-align:right;"|لیکرز
+|۵۵||۵۵|| ۳۵٫۲||۵۱۰.||۳۳۹.||۶۶۵.||۸٫۵||۸٫۳||۱٫۳||۶.||۲۷٫۴
+|style"text-align:right;"|۲۰۱۹
+|style"text-align:right;"|لیکرز
+|۶۷||۶۷|| ۳۴٫۶||۴۹۳.||۴۳۸.||۶۹۳.||۷٫۸||style"background:#cfecec;"| ۱۰٫۲*||۱٫۲||۵.||۲۵٫۳
+|- class"sortbottom"
+|style"text-align:center;" colspan"2"|عملکرد
+|۱٬۲۶۵||۱٬۲۶۴||۳۸٫۴||۵۰۴.||۳۴۴.||۷۳۴.||۷٫۴||۷٫۴||۱٫۶||۸.||۲۷٫۱
+|- class"sortbottom"
+|style"text-align:center;" colspan"2"|آل-استار
+|۱۶||۱۶||۲۸٫۸||۵۲۵.||۳۲۸.||۷۲۵.||۶٫۳||۶٫۰||۱٫۲||۴.||۲۴٫۱

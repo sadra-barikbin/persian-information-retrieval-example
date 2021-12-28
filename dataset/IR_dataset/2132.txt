@@ -1,0 +1,81 @@
+:راه دیگر امتحان حدس ۳n+۱ اقدام از طریق اعداد در مبنای دو است. مثال آن به صورت زیر است:
+
+مثال:ما از عدد ۷ استفاده می‌کنیم پس در مبنای دو به صورت ۱۱۱ است:
+
+راه استفاده شده برای بازگو کردن هر عدد در مبنای دو به صورتی است که ابتدا عدد اولیه را می‌نویسیم سپس زیر آن همان عدد را با یک "۱" اضافه شده به انتهای سمت راست آن می‌نویسیم و دو عدد را جمع می‌کنیم. هر صفری که در انتهای چپ حاصل جمع ظاهر شد حذف می‌کنیم و این روند را تا جایی ادامه می‌دهیم که به عدد ۱ برسیم.
+
+مقایسهٔ ماشین انتزاعی به برابری حسابی در مبنای ۲:
+ # Python
+ import re # regular expressions
+ import gmpy # base ۲ math library
+ def abstract_machine(s):
+ # define Truth Tables for the Full Adder
+ sum_tt  {'۰۰۰':'۰','۰۰۱':'۱','۰۱۰':'۱','۰۱۱':'۰','۱۰۰':'۱','۱۰۱':'۰','۱۱۰':'۰','۱۱۱':'۱'}
+ carry_tt  {'۰۰۰':'۰','۰۰۱':'۰','۰۱۰':'۰','۰۱۱':'۱','۱۰۰':'۰','۱۰۱':'۱','۱۱۰':'۱','۱۱۱':'۱'}
+ print s
+ while s ! '۱':
+ if s[-۱]'۱': # it's odd
+ s  '۰۰' + s # operands must be same length, so prepend with MS ۰
+ ss  '۰' + s + '۰' # shift left (append LS ۰) and prepend (MS ۰) to allow carry
+ t  ".join(reversed(s)) # iterating is L->R, so temporarily reverse
+ tt  ".join(reversed(ss))
+ carry  '۱' # preset carry (the '۱' of '۳n+۱')
+ answer  " # initialize answer
+ for i,j in enumerate(t): # walk through operands one char at a time
+ the_input  carry + j + tt[i] # assemble input from previous carry & two operands
+ the_sum  sum_tt[the_input] # look up sum out in sum Truth Table
+ carry  carry_tt[the_input] # look up carry out in carry Truth Table
+ answer  answer + the_sum # append sum to answer (carry used on next iteration)
+ final_answer  ".join(reversed(answer)) # un-reverse answer
+ if final_answer[۰]'۰': # if the last pad caharacter didn't receive a carry,
+ final_answer  final_answer[۱:] # ...get rid of it
+ print final_answer # show result before stripping LS ۰'s
+ else: # it's even
+ final_answer  s
+ m  re.search('(. *۱)(۰*$)',final_answer) # remove all LS ۰'s in one fell swoop
+ s  "".join(m.groups()[۰]) # reassemble answer to do next iteration
+ print s
+ def base_۲(n):
+ while n>۱:
+ f  gmpy.scan۱(n,۰) # find position of LS ۱-bit
+ if f>۰: # it's even
+ print gmpy.digits(n,۲) # print n in base ۲
+ n  n» f # remove all LS ۰'s in one fell swoop
+ else: # it's odd
+ print gmpy.digits(n,۲) # print n in base ۲
+ n  (n «۱) + n + ۱ # multiply by ۳ and add ۱
+ print gmpy.digits(n,۲) # print n in base ۲
+ # main
+ print 'test of abstract machine:'
+ print
+ abstract_machine('۱۱۱')
+ print
+ print
+ print 'test of base ۲:'
+ print
+ base_۲(۷)
+ ## test of abstract machine:
+ ## ۱۱۱
+ ## ۱۰۱۱۰
+ ## ۱۰۱۱
+ ## ۱۰۰۰۱۰
+ ## ۱۰۰۰۱
+ ## ۱۱۰۱۰۰
+ ## ۱۱۰۱
+ ## ۱۰۱۰۰۰
+ ## ۱۰۱
+ ## ۱۰۰۰۰
+ ## ۱
+ ##
+ ## test of base ۲:
+ ## ۱۱۱
+ ## ۱۰۱۱۰
+ ## ۱۰۱۱
+ ## ۱۰۰۰۱۰
+ ## ۱۰۰۰۱
+ ## ۱۱۰۱۰۰
+ ## ۱۱۰۱
+ ## ۱۰۱۰۰۰
+ ## ۱۰۱
+ ## ۱۰۰۰۰
+ ## ۱

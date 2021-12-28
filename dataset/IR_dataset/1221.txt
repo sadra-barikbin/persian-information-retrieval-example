@@ -1,0 +1,28 @@
+* "فرمان ناوگان" ("Flottenkommando"), Glücksburg
+** "فلوتیلا ۱" ("Einsatzflottille 1"), Kiel
+*** فلوتیلا فرماندهی ۱
+*** اسکادران کرووت ۱ ("۱. Korvettengeschwader"), Warnemünde
+*** اسکادران زیر دریایی ۱("۱. Unterseebootgeschwader"), Eckernförde
+*** مرکز فرماندهی زیردریایی ("Ausbildungszentrum Unterseeboote"), Eckernförde
+*** اسکادران ضد تاکتیکی مین ۳ ("۳. Minensuchgeschwader"), Kiel
+*** اسکادران گشت ضربتی دریایی ۷("۷. Schnellbootgeschwader"), Warnemünde
+*** اسکادران ضد تاکتیکی مین روب ۵ ("۵. Minensuchgeschwader"), Kiel
+*** گروه حفاظت ضربتی ("Marineschutzkräfte"), Eckernförde
+*** یک شرکت پشتیبانی و فرماندهی
+*** چهار شرکت حفاظت ضربتی ("Marinesicherungskompanie")
+**** گروه جنگ‌افزارهای خاص("Spezialisierte Einsatzkräfte Marine"), Eckernförde
+**** شرکت پشتیبانی و فرماندهی
+**** شرکت غواصان ضربتی ("Kampfschwimmerkompanie")
+**** شرکت غواصان ضربتی (ضد تاکتیک و خنثی گران مواد منفجره"Minentaucherkompanie")
+**** شرکت پشتیبانی غواصان ("KS-Unterstützungskompanie")
+**** شرکت عملیات خاص (مانند پیاده و سوار کردن نیروها)
+**** شرکت پشتیبانی
+**** مرکز آموزش‌های حرفه‌ای
+* "فلوتیلا ۲" ("Einsatzflottille 2"), Wilhelmshaven
+*** فلوتیلا فرماندهی ۲
+*** اسکادران ناوچه ۲("۲. Fregattengeschwader"), Wilhelmshaven
+*** اسکادران ناوچه ۴("۴. Fregattengeschwader"), Wilhelmshaven
+*** اسکادران کمکی ("Trossgeschwader"), Wilhelmshaven/Kiel
+** "بال هوایی شماره ۳ نیروی دریایی ("Marinefliegergeschwader 3"), Nordholz
+** "بال هوایی شماره ۵ نیروی دریایی"("Marinefliegergeschwader 5"), Kiel
+** "مرکز بهداشت نیروی دریایی" ("Schiffahrtsmedizinisches Institut"), Kiel

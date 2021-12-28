@@ -1,0 +1,17 @@
+به ازای هر مجموعهٔ formula_6 تابع همانی بر روی formula_6 پوشا است.
+
+تابع formula_19 با ضابطهٔ f(n)  n mod 2 (تابعی که اعداد زوج را به صفر و اعداد فرد را به یک تصویر می‌کند) تابعی پوشا است.
+
+تابع formula_20 با ضابطهٔ formula_21 پوشا (و حتی دو سویی) است، چون به ازای هر عدد حقیقی formula_22
+formula_23 ای وجود دارد به گونه‌ای که formula_4.
+
+تابع formula_20 با ضابطهٔ f(x)  x3 - 3x پوشا است زیرا تصویر معکوس هر عدد حقیقی formula_22 مجموعه جواب معادلهٔ درجه سه x3-3x-y۰ است و هر چند جمله‌ای درجهٔ سه با ضرایب حقیقی حداقل یک ریشهٔ حقیقی دارد. اگر چه این تابع یک به یک (و در نتیجه دوسویی) نیست زیرا برای مثال تصویر معکوس formula_27 مجموعهٔ formula_28 است. (درحقیقت، تصویر معکوس این تابع به ازای هر formula_29 بیشتر از یک عضو دارد)
+
+تابع formula_30 با ضابطهٔ g(x)  x² پوشا نیست زیرا هیچ عدد حقیقی مانند formula_31 وجود ندارد که x²  -۱. اگرچه تابع formula_32 با ضابطهٔ g(x)  x² (با برد تحدید شده) پوشا است زیرا به ازای هر formula_22 از برد formula_7 (اعداد حقیقی نامنفی) حداقل یک formula_31 در دامنه formula_6 (اعداد حقیقی) وجود دارد، به گونه‌ای که x²  y.
+
+تابع لگاریتم طبیعی ln: (0,+∞) → R یک نگاشت پوشا و حتی دوسویی از مجموعهٔ اعداد حقیقی مثبت به مجموعهٔ تمام اعداد حقیقی است. وارون این تابع، تابع نمایی، پوشا نیست زیرا بردش مجموعهٔ اعداد حقیقی مثبت و دامنه اش معمولاً مجموعهٔ تمام اعداد حقیقی در نظر گرفته می‌شود.
+The matrix exponential is not surjective when seen as a map from the space of all n×n matrices to itself. It is, however, usually defined as a map from the space of all n×n matrices to the general linear group of degree n, i.e. the group of all n×n invertible matrices. Under this definition the matrix exponential is surjective for complex matrices, although still not surjective for real matrices.
+
+افکنش از یک ضرب دکارتی A * B به یکی از عواملش پوشا است.
+
+در یک بازی ویدئویی سه بعدی بردارها به وسیلهٔ یک تابع پوشا بر روی یک نمایشگر صفحه تخت دو بعدی تصویر می‌شوند.

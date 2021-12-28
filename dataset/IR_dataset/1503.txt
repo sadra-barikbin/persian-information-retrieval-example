@@ -1,0 +1,56 @@
+در حال حاضر ، اکثر مرورگر های امروزی ( همچنین اینترنت اکسپلورر 10 و 11 ) از اس‌وی‌جی پشتیبانی میکنند . از آنجا که برخی از مرورگرهای وب قدیمی (مثل IE نسخه 6 و 7 ) توانایی ارائهٔ (rendering) اس‌وی‌جی را ندارند ، پیش از همه‌چیز، باید به تهیه و نصب یک نرم‌افزار ویژه موسوم به اس‌وی‌جی‌نگر (SVG viewer) اقدام نمائیم. پس از آن می‌توانیم هریک از مثال‌های ساده و ابتدائی زیر را در فایل‌های جداگانه‌ای که به svg. ختم می‌شوند ذخیره نموده و مورد آزمایش قرار دهیم. اگر از مرورگر های امروزی استفاده میکند ( کروم ، فایر فاکس و ... ) نیازی با اینکار نیست . 
+
+مثال ۱: ترسیم دایره‌ای به مرکز (۲۰۰ ،۶۰۰) (با واحد پیکسل) و با شعاع ۳ سانتیمتر
+<syntaxhighlight lang"xml">
+<svg>
+<circle cx"600" cy"200" r"3cm"/>
+</svg>
+</syntaxhighlight>
+مثال ۲: ترسیم پاره خطی با نقطهٔ شروع (۵۰ ،۷۰)، و نقطهٔ انتهایی (۴۰۰ ،۲۰۰) (با واحد پیکسل)، به رنگ قرمز، و دارای ضخامت ۸ پیکسل
+<syntaxhighlight lang"xml">
+<svg>
+<line x1"70" y1"50" x2"300" y2"400" style"stroke: red; stroke-width: 8"/>
+</svg> 
+</syntaxhighlight>
+مثال ۳: در ابتدا، یک مستطیل با رأس گوشهٔ بالایی سمت چپ (۶۰ ،۸۰)، دارای عرض ۴۰۰ و قاعدهٔ ۶۰ رسم می‌شود، و سپس، پهنای مستطیل در مدت زمانی ۱۵ ثانیه (زمان اسمی و نه واقعی) از ۴۰۰ به ۲۰ به صورت انیمیشن کاهش می‌یابد. (همهٔ واحدها پیکسل است)
+<syntaxhighlight lang"xml">
+<svg>
+<rect x"80" y"60" width"400" height"60" stroke"black" fill"none">
+<animate attributeName"width" attributeType"XML"
+from"400" to"20"
+begin"0s" dur"15s"
+fill"freeze"/> 
+</rect>
+</svg>
+</syntaxhighlight>
+مثال ۴: یک انیمیشن واقعی‌تر
+<syntaxhighlight lang"xml">
+<svg>
+<rect x"210" y"210" width"20" height"20" style"stroke: black; fill: red;">
+
+<animate attributeName"width" attributeType"XML"
+begin"0s" dur"1s"
+from"20" to"120"
+fill"freeze"/> 
+
+<animate attributeName"height" attributeType"XML"
+begin"0s" dur"1.0s"
+from"20" to"120"
+fill"freeze"/>
+
+</rect>
+
+<circle cx"270" cy"270" r"60"
+ style"fill: green; stroke: black;">
+
+ <animate attributeName"r" attributeType"XML"
+ begin"0.7s" dur"0.8s" from"20" to"50" fill"freeze"/>
+</circle>
+</svg> 
+</syntaxhighlight>
+
+نمونه‌های مختلف
+* نمونه‌های مختلف اس‌وی‌جی - موزیلا
+* مثال‌های گوناگون به همراه خودآموزها و مقالات
+* پرونده‌های اس‌وی‌جی ایجادشده به وسیلهٔ برنامه‌های کامپیوتری پرطرفدار
+* نمونه‌های مختلف اس‌وی‌جی از ادوبی

@@ -1,0 +1,42 @@
+:"مقالهٔ اصلی: دستور زبان صوری"
+
+دستور زبانی رسمی از این نوع، از یک مجموعه‌ای متناهی از قواعد تولید تشکیل شده است ("سمت چپ" formula_1 "سمت راست") که هر سمت آن، خود شامل رشته‌ای از نمادهای زیر می‌باشد:
+* مجموعه‌ای متناهی از نمادهای ناپایانه (که نشان‌دهندهٔ این است که هنوز برخی از قواعد تولید را می‌توان اعمال نمود)
+* مجموعه‌ای متناهی از نمادهای پایانه (که نشان‌دهندهٔ این است که هیچ قاعدهٔ تولیدی را نمی‌توان اعمال نمود)
+* یک نماد آغازین (یک نماد ناپایانهٔ متمایز)
+
+گرامر رسمی یک زبان رسمی را تعریف (یا تولید) می‌کند، که مجموعه‌ای (معمولاً متناهی) از رشته‌هایی با طول متناهی از نمادها هستند، که ممکن است با اعمال قواعد تولید به رشته‌ای دیگر از نمادها که از ابتدا فقط حاوی نماد آغازین بوده‌اند، ساخته شوند. یک قاعده می‌تواند با جایگزین کردن یک رخداد از نمادها در سمت چپ قاعده با رخدادی که در سمت راست ظاهر می‌شود، به رشته‌ای از نمادها اعمال شود. رشته‌ای از کاربردهای قاعده را «اشتقاق» می‌خوانند. چنین گرامری زبان رسمی را تعریف می‌کند: همهٔ واژه‌هایی که تنها از نمادهای پایانه‌ای تشکیل شده باشند که با اشتقاقی از نماد آغازین، قابل دسترسی باشند.
+ناپایانهها معمولاً با حروف بزرگ، پایانه‌ها با حروف کوچک، و نماد آغازین با formula_2 نمایش داده می‌شوند، مثلاً گرامری با پایانه‌های formula_3 ، ناپایانه‌های formula_4، قواعد تولید:
+
+: formula_2 formula_1 formula_7
+: formula_2 formula_1 ε (where ε is the empty string)
+: formula_10 formula_1 formula_12
+: formula_13 formula_1 formula_15
+: formula_16 formula_1 formula_18
+: formula_19 formula_1 formula_21
+: formula_22 formula_1 formula_24
+
+و نماد آغازین formula_2، زبان همهٔ واژه‌هایی با شکل formula_26 را تعریف می‌کند (یعنی formula_27 نسخه از formula_28 و به دنبال آن formula_27 کپی از formula_15). مورد بعدی گرامر ساده‌تری است که زبان مشابهی را تعریف می‌کند: پایانه‌های formula_3، ناپایانهٔ formula_32، نماد آغازین formula_2 ، قواعد تولید
+
+: formula_2 formula_1 formula_36
+: formula_2 formula_1 ε
+
+به عنوان مثالی دیگر، گرامری برای یک زیرمجموعهٔ سرگرمی از زبان انگلیسی، به صورت زیر داده شده است:
+پایانه‌های formula_39 ، ناپایانه‌های formula_40 ، قواعد تولید
+: formula_41 formula_1 formula_43
+: formula_44 formula_1 formula_46
+: formula_44 formula_1 formula_49
+: formula_50 formula_1 formula_52
+: formula_50 formula_1 formula_55
+: formula_49 formula_1 formula_58
+: formula_49 formula_1 formula_61
+: formula_55 formula_1 formula_64
+: formula_55 formula_1 formula_67
+: formula_68 formula_1 formula_70
+: formula_68 formula_1 formula_73
+
+و نماد آغازین formula_41 . مثالی از اشتقاق این است:
+
+: "SENTENCE" formula_75 "NOUNPHRASE VERBPHRASE" formula_75 "ADJ NOUNPHRASE VERBPHRASE" formula_75 "ADJ NOUN VERBPHRASE" formula_75 "ADJ NOUN VERB NOUNPHRASE" formula_75 "ADJ NOUN VERB ADJ NOUNPHRASE" formula_75 "ADJ NOUN VERB ADJ ADJ NOUNPHRASE" formula_75 "ADJ NOUN VERB ADJ ADJ NOUN" formula_75 "great NOUN VERB ADJ ADJ NOUN" formula_75 "great linguists VERB ADJ ADJ NOUN" formula_75 "great linguists generate ADJ ADJ NOUN" formula_75 "great linguists generate great ADJ NOUN" formula_75 "great linguists generate great green NOUN" formula_75 "great linguists generate great green ideas".
+
+سایر رشته‌هایی که می‌توانند از این گرامر مشتق شوند "ideas hate greate linguists" و "ideas generate" هستند. این جملات بی‌معنی هستند، اما از لحاظ ساختاری صحیحند. جمله‌ای که از لحاظ ساختاری نادرست باشد، مثل "ideas ideas great hate"، نمی‌تواند از گرامر مشتق شود. به عنوان مثالی مشابه، “Colorless green ideas sleep furiously” از چامسکی در سال ۱۹۵۷ را ببینید؛ برای یافتن مثال‌های زبانی طبیعی‌تر و مسائل گرامرهای رسمی در این زمینه، بخش‌های گرامر ساختار عبارت و قواعد ساختار عبارت را ببینید.

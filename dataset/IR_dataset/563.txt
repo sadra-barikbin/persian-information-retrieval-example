@@ -1,0 +1,36 @@
+* زبان آفریکانس: Hallo, goeie more/naand
+* زبان آلبانیایی: Përshëndetje
+* زبان عربی: مرحبًا / سلام (marḥaban/salām)
+* زبان ارمنی: Բարեւ Ձեզ (Barev Dzez)
+* زبان آذری: Salam
+* زبان پرتغالی برزیل: Oi, Olá, Bom dia/tarde/noite
+* زبان بلغاری: Здравейте (Zdraveĭte)
+* زبان برمه‌ای: Mingalarba
+* زبان چینی: 你好 (زبان چینی استاندارد: nǐ hǎo, زبان کانتونی: nei hou)
+* زبان چکی: Ahoj (غیر رسمی), Dobrý den (رسمی)
+* زبان دانمارکی: Hej/Davs/Mojn (informal), Goddag/Godmorgen/Godaften (formal)
+* زبان هلندی: Hallo
+* زبان انگلیسی: Hello, Hi (رسمی), Hey (غیر رسمی), Good Day/Morning/Evening (Good Day.)
+* زبان فنلاندی: Hei, Terve, (Hyvää) huomenta/päivää/iltaa (رسمی)
+* زبان فرانسوی: Salut, Bonjour
+* زبان گرجی: გამარჯობა (Gamarjoba); გამარჯობათ (Gamarjobat) (رسمی); გაუმარჯოს (Gaumarjos) (غیر رسمی)
+* زبان آلمانی: Hallo (غیر رسمی), Grüß Gott (رسمی، فقط در جنوب آلمان و اتریش), Guten Morgen/Guten Tag/Guten Abend (رسمی)
+* زبان یونانی: Γειά σας (Yia Sas) رسمی, Γειά σου (Yia Sou) غیر رسمی, Γειά simple
+* زبان عبری: שלום (Shalom)
+* زبان هندی: नमस्ते (Namaste)
+* زبان ایتالیایی: Ciao (غیر رسمی), Salve (نیمه رسمی), Buongiorno/Buonasera (رسمی)
+* زبان ژاپنی: こんにちは (Konnichiwa)
+* زبان کره‌ای: 안녕하세요 (An-nyeong-ha-se-yo)
+* زبان مغولی: Сайн байна уу
+* زبان فارسی: درود (Dorood) / سلام (Salam)
+* زبان مجاری: Cześć (غیر رسمی), Dzień dobry/Witam (رسمی), Dobry wieczór (good evening)
+* زبان پرتغالی: Ei! (خیلی رسمی), Oi, Olá (نیمه رسمی), Bom dia/boa tarde/boa noite (غیر رسمی)
+* زبان پنجابی: Ki Hal Ay کی حال اے /ki: hɑ:l e:/
+* زبان اردو: Salut (غیر رسمی), Bună dimineaţa/ziua/seara (رسمی), 'Neaţa(غیر رسمی)
+* زبان روسی: Привет (Privet), Здравствуйте (Zdravstvuite)
+* زبان صربی: Здраво/Zdravo (غیر رسمی), Добар дан/Dobar dan (رسمی)
+* زبان سواحیلی: Jambo
+* زبان سوئدی: Hej (غیر رسمی), god dag/god afton (رسمی)
+* زبان تایلندی: สวัสดี (Sawatdi)
+* زبان ترکی: Merhaba
+* زبان گیلکی:selam
