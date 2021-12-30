@@ -1,0 +1,50 @@
+Tag weight: 3 Tf-idf: T
+Error ../dataset/IR_dataset/2885.txt at 569 occurred.
+MRR: 0.21411914882503114
+MAP: 0.15861841426376194
+P@k: 0.07136689475399151
+Tag weight: 3 Tf-idf: F
+Error ../dataset/IR_dataset/2885.txt at 569 occurred.
+MRR: 0.2231447447826758
+MAP: 0.1426937241899583
+P@k: 0.06707396546106223
+Tag weight: 6 Tf-idf: T
+Error ../dataset/IR_dataset/2885.txt at 569 occurred.
+MRR: 0.22087218337218334
+MAP: 0.15974856968562778
+P@k: 0.07255737094446771
+Tag weight: 6 Tf-idf: F
+Error ../dataset/IR_dataset/2885.txt at 569 occurred.
+MRR: 0.2175260178306155
+MAP: 0.14092246351854398
+P@k: 0.06925475957734022
+Tag weight: 9 Tf-idf: T
+Error ../dataset/IR_dataset/2885.txt at 569 occurred.
+MRR: 0.22007853257853255
+MAP: 0.1586301014453418
+P@k: 0.07179979518689195
+Tag weight: 9 Tf-idf: F
+Error ../dataset/IR_dataset/2885.txt at 569 occurred.
+MRR: 0.21345397875857644
+MAP: 0.13813564618263247
+P@k: 0.06925475957734022
+Tag weight: 12 Tf-idf: T
+Error ../dataset/IR_dataset/2885.txt at 569 occurred.
+MRR: 0.21063408813408813
+MAP: 0.15593566920775942
+P@k: 0.07100614439324114
+Tag weight: 12 Tf-idf: F
+Error ../dataset/IR_dataset/2885.txt at 569 occurred.
+MRR: 0.20893738424198194
+MAP: 0.13632348911312245
+P@k: 0.06810035842293906
+Tag weight: 18 Tf-idf: T
+Error ../dataset/IR_dataset/2885.txt at 569 occurred.
+MRR: 0.21063408813408813
+MAP: 0.15518691564650586
+P@k: 0.07100614439324114
+Tag weight: 18 Tf-idf: F
+Error ../dataset/IR_dataset/2885.txt at 569 occurred.
+MRR: 0.20893738424198194
+MAP: 0.13632348911312245
+P@k: 0.06810035842293906
